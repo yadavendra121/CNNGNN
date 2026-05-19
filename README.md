@@ -108,8 +108,8 @@ Important:
 Images and labels must match in filename.
 
 Labels must be integer class indices.
-firstly make the data set my running data_conversitsion.py 
-this make the dataset images and mask in .npy file that are easy and fast in training because it process the data at the begning and save besids data and mask as images_npy and masks_npy file.
+Firstly, make the data set my running data_conversion.py 
+This makes the dataset images and mask in .npy file that are easy and fast in training because it processes the data at the beginning and save besids data and mask as images_npy and masks_npy files.
 Set all parameters in configs/config.py
 
 Background = 0.
