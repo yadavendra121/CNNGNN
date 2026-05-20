@@ -1,1 +1,1 @@
-For details read: read.txt file
+For details, read the read.txt file
